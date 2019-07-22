@@ -145,6 +145,10 @@ BOM：Browser Object Model，浏览器对象模型。
 </body>
 </html>
 ```
+'''
+子窗口中父窗口对象为opener
+'''
+
 
 3、新窗口相关：
 
